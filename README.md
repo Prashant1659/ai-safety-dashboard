@@ -1,4 +1,4 @@
-To locally run this code either clone or pull repo or download zip file from 
+To locally run this code either clone or pull repo or download zip file from `https://github.com/Prashant1659/ai-safety-dashboard.git`
 ## Available Scripts
 
 In the project directory, you can run:
